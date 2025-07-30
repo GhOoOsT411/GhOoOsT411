@@ -75,7 +75,7 @@
 - [Certified Red Team Analyst (CRTA)]()
 - [Practical Bug Bounty, TCM Security]()
 - [Python 201 for Hackers, TCM Security]()
-- [Python 101 for Hackers, TCM Security]()
+- [Python 101 for Hackers, TCM Security](https://github.com/GhOoOsT411/GhOoOsT411/tree/main/Courses%20&%20Certificatoins/Python%20101%20for%20Hackers%20-%20TCM%20Security)
 - [Linux fundamentals]()
 
 
