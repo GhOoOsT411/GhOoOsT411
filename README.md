@@ -71,11 +71,14 @@
 
 <h2>📜 Courses & Certificatoins </h2>
 
-- [Android App Hacking - Black Belt Edition]()
+- [Android App Hacking, Black Belt Edition]()
 - [Certified Red Team Analyst (CRTA)]()
 - [Practical Bug Bounty, TCM Security]()
 - [Python 201 for Hackers, TCM Security]()
 - [Python 101 for Hackers, TCM Security](https://github.com/GhOoOsT411/GhOoOsT411/tree/main/Courses%20&%20Certificatoins/Python%20101%20for%20Hackers%20-%20TCM%20Security)
+- [Qualified EJPT, Netriders Academy]()
+- [CCNA: Introduction to Networks - Cisco](https://www.credly.com/badges/203d0398-a9e1-45bb-9713-1cce21d04e4a)
+- [CyberOps Associate - Cisco](https://www.credly.com/badges/53fbc908-5538-42c6-a111-0bbb748903ab/public_url)
 - [Linux fundamentals]()
 
 
