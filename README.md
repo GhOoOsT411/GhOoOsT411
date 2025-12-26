@@ -90,7 +90,7 @@
 <img align="left" alt="Hossam Mohamed | LinkedIn" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 
 
-[twitter]: 
+[twitter]: https://x.com/hhossam_mohamed
 [linkedin]: https://www.linkedin.com/in/hossam-mohameddd/
 
 
